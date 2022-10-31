@@ -57,7 +57,7 @@ nav .menu{
 
 /* Background dan Penulisan Judul */
 .img{
-  background: url('./Assets./Images/PCB 4.jpg')no-repeat;
+  background: url('./Assets/Images/PCB 4.jpg')no-repeat;
   width: 100%;
   height: 100vh;
   background-size: cover;
